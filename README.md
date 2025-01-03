@@ -58,11 +58,10 @@ Developed by:ANNIE ANJANA A  RegisterNumber:24010978
 
 
 **RTL LOGIC FOR SISO Shift Register**
-![Screenshot 2024-12-26 085934](https://github.com/user-attachments/assets/3d602d1e-4b9f-40d1-93bb-3736a50fd1bb)
-
+![image](https://github.com/user-attachments/assets/21934812-34c8-4379-93ca-fe147fc7faa1)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![Screenshot 2024-12-26 082821](https://github.com/user-attachments/assets/f559249f-b0e2-477a-b041-8b07a1ba68a2)
+![image](https://github.com/user-attachments/assets/e248d8fe-4860-4b72-ae4f-d119b91c9bae)
 
 
 **RESULTS**
